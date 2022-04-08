@@ -143,7 +143,6 @@ aspects, challenges, and future perspectives</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.artint.2021.103627</td>
 </a></td>
   </tr>
-    </tr>
   <tr>
     <td class="tg-yw4l">Knowledge Graph Embeddings and Explainable AI</td>
     <td class="tg-yw4l">arXiv</td>
