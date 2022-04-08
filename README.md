@@ -1,7 +1,7 @@
 # KGs-Survey
 This is a repository of KGs survey paper, which will be updated periodically. Last update: 8 April,2022
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 <table class="tg">
   <tr>
