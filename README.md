@@ -25,6 +25,14 @@ This is a repository of KGs survey paper, which will be updated periodically. La
     <td class="tg-yw4l">https://doi.org/10.1016/j.aiopen.2021.02.001</td>
 </a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Neural Entity Linking: A Survey of Models Based on Deep Learning</td>
+    <td class="tg-yw4l">Semantic Web</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Knowledge Graph Entity Linking</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2006.00575</td>
+</a></td>
+  </tr>
     <tr>
     <td class="tg-yw4l">Comprehensive Survey on Knowledge Graph Entity Alignment via Representation
 Learning</td>
@@ -146,7 +154,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Knowledge Graph Embeddings and Explainable AI</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2020</td>
-    <td class="tg-yw4l"XAI</td>
+    <td class="tg-yw4l">XAI</td>
     <td class="tg-yw4l">https://arxiv.org/abs/2004.14843</td>
 </a></td>
   </tr>
