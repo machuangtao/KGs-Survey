@@ -48,7 +48,7 @@
     <td class="tg-yw4l">http://www.infocomm-journal.com/bdr/CN/10.11959/j.issn.2096-0271.2021024</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"实体消歧</td>
+    <td class="tg-yw4l">实体消歧</td>
     <td class="tg-yw4l">控制与决策</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">实体消岐与链接</td>
@@ -62,7 +62,7 @@
     <td class="tg-yw4l">http://www.jos.org.cn/jos/article/abstract/6429</td>
   </tr>
     <tr>
-    <td class="tg-yw4l"面向大数据领域的事理认知图谱构建与推断分析</td>
+    <td class="tg-yw4l">面向大数据领域的事理认知图谱构建与推断分析</td>
     <td class="tg-yw4l">中国科学：信息科学</td>
     <td class="tg-yw4l">2020</td>
     <td class="tg-yw4l">知识图谱推理与构建</td>
