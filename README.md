@@ -1,5 +1,5 @@
-# kgs-survey
-This is a repository of KGs survey paper, which will be updated periodically.
+# KGs-Survey
+This is a repository of KGs survey paper, which will be updated periodically. Last update: 8 April,2022
 
 <table class="tg">
   <tr>
@@ -11,18 +11,17 @@ This is a repository of KGs survey paper, which will be updated periodically.
   </tr>
   
   <tr>
-    <td class="tg-yw4l">Knowledge Graph Embeddings and Explainable AI</td>
+    <td class="tg-yw4l">Multi-Modal Knowledge Graph Construction and Application: A Survey</td>
     <td class="tg-yw4l">arXiv</td>
-    <td class="tg-yw4l">2020</td>
-    <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2004.14843</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">KGs Construction and Completion</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2202.05786</td>
 </a></td>
-  </tr>
    <tr>
     <td class="tg-yw4l">Network Representation Learning: A Macro and Micro View</td>
     <td class="tg-yw4l">Open AI</td>
     <td class="tg-yw4l">2021</td>
-    <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
+    <td class="tg-yw4l">KGs Representation Learning/td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.aiopen.2021.02.001</td>
 </a></td>
   </tr>
@@ -50,6 +49,14 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.fmre.2021.08.013</td>
+</a></td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Knowledge Graph Reasoning with Logics and Embeddings: Survey and Perspective</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Knowledge Reasoning</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2202.07412</td>
 </a></td>
   </tr>
    <tr>
@@ -134,6 +141,15 @@ aspects, challenges, and future perspectives</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">XAI</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.artint.2021.103627</td>
+</a></td>
+  </tr>
+    </tr>
+  <tr>
+    <td class="tg-yw4l">Knowledge Graph Embeddings and Explainable AI</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2020</td>
+    <td class="tg-yw4l"XAI</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2004.14843</td>
 </a></td>
   </tr>
   
