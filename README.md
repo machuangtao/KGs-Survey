@@ -1,5 +1,6 @@
 # KGs-Survey
-This is a repository of KGs survey paper, which will be updated periodically. Last update: 8 April,2022
+This is a repository of KGs survey paper, which will be updated periodically. Last update: 8 April,202
+The Chinese Lanague KGs survey paper are avaliable at [中文论文] (https://github.com/machuangtao/KGs-Survey/blob/main/zh-CN.md).
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -49,7 +50,7 @@ Learning</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2010.16314.pdf</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2010.16314</td>
 </a></td>
   </tr>
      <tr>
