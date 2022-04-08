@@ -48,6 +48,20 @@
     <td class="tg-yw4l">http://www.infocomm-journal.com/bdr/CN/10.11959/j.issn.2096-0271.2021024</td>
   </tr>
   <tr>
+    <td class="tg-yw4l">大规模知识图谱补全技术的研究进展</td>
+    <td class="tg-yw4l">中国科学：信息科学</td>
+    <td class="tg-yw4l">2020</td>
+    <td class="tg-yw4l">知识图谱构建与补全</td>
+    <td class="tg-yw4l">https://doi.org/10.1360/N112018-00225</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">科技大数据知识图谱构建方法及应用研究综述</td>
+    <td class="tg-yw4l">中国科学：信息科学</td>
+    <td class="tg-yw4l">2020</td>
+    <td class="tg-yw4l">知识图谱构建与补全</td>
+    <td class="tg-yw4l">https://doi.org/10.1360/SSI-2019-0271</td>
+  </tr>
+  <tr>
     <td class="tg-yw4l">实体消歧</td>
     <td class="tg-yw4l">控制与决策</td>
     <td class="tg-yw4l">2021</td>
@@ -66,6 +80,7 @@
     <td class="tg-yw4l">中国科学：信息科学</td>
     <td class="tg-yw4l">2020</td>
     <td class="tg-yw4l">知识图谱推理与构建</td>
+    <td class="tg-yw4l">https://doi.org/10.1360/SSI-2019-0273</td>
   </tr>
      <tr>
     <td class="tg-yw4l">事件图谱的构建、推理与应用:</td>
