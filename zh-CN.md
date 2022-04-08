@@ -135,7 +135,7 @@
       
  </table> 
 
-此项工作适用于[Creative Commons Attribution 4.0 International License][cc-by]证书.
+此项工作适用于[Creative Commons Attribution 4.0 International License][cc-by] 开源证书保护.
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
