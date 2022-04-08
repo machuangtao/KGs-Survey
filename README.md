@@ -4,6 +4,7 @@ This is a repository of kgs survey paper, which will be updated periodically.
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Title</b></th>
+     <th class="tg-yw4l"><b>Source</b></th>
     <th class="tg-yw4l"><b>Year</b></th>
     <th class="tg-yw4l"><b>Category</b></th>
     <th class="tg-yw4l"><b>Link</b></th>
@@ -11,24 +12,21 @@ This is a repository of kgs survey paper, which will be updated periodically.
   
   <tr>
     <td class="tg-yw4l">Knowledge Graph Embeddings and Explainable AI</td>
-    <td class="tg-yw4l">A basic tutorial to learn about computational graphs</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2020</td>
     <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
-    <td class="tg-yw4l">[arXiv](https://arxiv.org/pdf/2004.14843)</td>
+    <td class="tg-yw4l">https://arxiv.org/pdf/2004.14843</td>
+</a></td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Network Representation Learning: A Macro and Micro View</td>
+    <td class="tg-yw4l">Open AI</td>
+    <td class="tg-yw4l">2021</td>
+    <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
+    <td class="tg-yw4l">https://doi.org/10.1016/j.aiopen.2021.02.001</td>
 </a></td>
   </tr>
   
  
  </table> 
 
-Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions. 
-
-Please cite the following if you use the code examples in your research:
-
-```
-@misc{saravia2022ml,
-  title={ML Notebooks},
-  author={Saravia, Elvis and Rastogi, Ritvik},
-  journal={https://github.com/dair-ai/ML-Notebooks},
-  year={2022}
-}
-```
