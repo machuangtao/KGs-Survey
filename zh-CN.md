@@ -7,7 +7,7 @@
   <tr>
     <th class="tg-yw4l"><b>标题</b></th>
      <th class="tg-yw4l"><b>文献来源</b></th>
-    <th class="tg-yw4l"><b>发表年份Year</b></th>
+    <th class="tg-yw4l"><b>发表年份</b></th>
     <th class="tg-yw4l"><b>分类</b></th>
     <th class="tg-yw4l"><b>链接</b></th>
   </tr>
@@ -115,7 +115,6 @@
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">下游应用</td>
     <td class="tg-yw4l">https://doi.org/10.7544/issn1000-1239.20211264</td>
-</a></td>
   </tr>
       
  </table> 
