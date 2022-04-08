@@ -1,5 +1,5 @@
 # KGs-Survey
-- This is a repository of KGs survey paper, which will be updated periodically. Last update: 8 April,202
+- This is a repository of KGs survey paper that will be updated periodically. Last update: 8 April,202
 - The Chinese Lanague KGs survey paper are avaliable at [中文论文合集](https://github.com/machuangtao/KGs-Survey/blob/main/zh-CN.md).
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
