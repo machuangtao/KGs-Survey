@@ -69,8 +69,7 @@ reasoning, and inconsistency checking</td>
 </a></td>
   </tr>
     <tr>
-    <td class="tg-yw4l"Exploiting knowledge graphs in industrial products and services : A survey of key
-aspects, challenges, and future perspectives</td>
+    <td class="tg-yw4l">Exploiting knowledge graphs in industrial products and services : A survey of key aspects, challenges, and future perspectives</td>
     <td class="tg-yw4l">Computers in Industry</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Downstream Application</td>
