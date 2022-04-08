@@ -23,7 +23,7 @@ This is a repository of KGs survey paper, which will be updated periodically. La
     <td class="tg-yw4l">Network Representation Learning: A Macro and Micro View</td>
     <td class="tg-yw4l">Open AI</td>
     <td class="tg-yw4l">2021</td>
-    <td class="tg-yw4l">KGs Representation Learning/td>
+    <td class="tg-yw4l">KGs Representation Learning</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.aiopen.2021.02.001</td>
 </a></td>
   </tr>
