@@ -1,5 +1,5 @@
 # kgs-survey
-This is a repository of kgs survey paper, which will be updated periodically.
+This is a repository of KGs survey paper, which will be updated periodically.
 
 <table class="tg">
   <tr>
@@ -66,7 +66,7 @@ reasoning, and inconsistency checking</td>
 aspects, challenges, and future perspectives</td>
     <td class="tg-yw4l">Computers in Industry</td>
     <td class="tg-yw4l">2021</td>
-    <td class="tg-yw4l">Downtream Application</td>
+    <td class="tg-yw4l">Downstream Application</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.compind.2021.103449</td>
 </a></td>
   </tr>
@@ -74,7 +74,7 @@ aspects, challenges, and future perspectives</td>
     <td class="tg-yw4l">Knowledge Graphs in Manufacturing and Production: A Systematic Literature Review</td>
     <td class="tg-yw4l">IEEE Access</td>
     <td class="tg-yw4l">2021</td>
-    <td class="tg-yw4l">Downtream Application</td>
+    <td class="tg-yw4l">Downstream Application</td>
     <td class="tg-yw4l">https://doi.org/10.1109/ACCESS.2021.3070395</td>
 </a></td>
   </tr>
