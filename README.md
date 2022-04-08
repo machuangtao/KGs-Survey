@@ -1,6 +1,8 @@
 # KGs-Survey
 This is a repository of KGs survey paper, which will be updated periodically. Last update: 8 April,2022
 
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Title</b></th>
@@ -160,8 +162,6 @@ reasoning, and inconsistency checking</td>
   </tr>
   
  </table> 
-
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
