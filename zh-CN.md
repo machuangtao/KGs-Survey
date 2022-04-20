@@ -117,12 +117,26 @@
     <td class="tg-yw4l">下游应用</td>
     <td class="tg-yw4l">https://kns.cnki.net/kcms/detail/11.5946.TP.20220328.1707.013.html</td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">发动机故障领域知识图谱构建与应用</td>
+    <td class="tg-yw4l">计算机系统应用</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">下游应用</td>
+    <td class="tg-yw4l">http://www.c-s-a.org.cn/1003-3254/8592.html</td>
+  </tr>
     <tr>
     <td class="tg-yw4l">知识图谱多跳问答推理研究进展、挑战与展望</td>
     <td class="tg-yw4l">大数据</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">知识图谱问答</td>
     <td class="tg-yw4l">http://www.infocomm-journal.com/bdr/CN/10.11959/j.issn.2096-0271.2021026</td>
+  </tr>
+     <tr>
+    <td class="tg-yw4l">知识图谱问答领域综述</td>
+    <td class="tg-yw4l">计算机系统应用</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">知识图谱问答</td>
+    <td class="tg-yw4l">http://www.c-s-a.org.cn/1003-3254/8418.html</td>
   </tr>
   <tr>
     <td class="tg-yw4l">基于强化学习的知识图谱研究综述</td>
