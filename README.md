@@ -1,5 +1,5 @@
 # KGs-Survey
-- This is a repository of KGs survey paper that will be updated periodically. Last update: 8 April,202
+- This is a repository of KGs survey paper that will be updated periodically. Last update: 24 April,202
 - The Chinese Lanague KGs survey paper are avaliable at [中文论文合集](https://github.com/machuangtao/KGs-Survey/blob/main/zh-CN.md).
 
 [![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue)
@@ -19,6 +19,14 @@
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
     <td class="tg-yw4l">https://arxiv.org/abs/2202.05786</td>
+   </tr>
+    <tr>
+    <td class="tg-yw4l">Knowledge graph quality control: A survey</td>
+    <td class="tg-yw4l">Fundamental Research</td>
+    <td class="tg-yw4l">2021</td>
+    <td class="tg-yw4l">KGs Construction and Completion</td>
+    <td class="tg-yw4l">https://doi.org/10.1016/j.fmre.2021.09.003</td>
+   </tr>
    <tr>
     <td class="tg-yw4l">Network Representation Learning: A Macro and Micro View</td>
     <td class="tg-yw4l">Open AI</td>
