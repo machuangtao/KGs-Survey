@@ -1,5 +1,5 @@
 # KGs-Survey
-- This is a repository of KGs survey paper that will be updated periodically. Last update: 24 April,202
+- This is a repository of KGs survey paper that will be updated periodically. Last update: 14 May,202
 - The Chinese Lanague KGs survey paper are avaliable at [中文论文合集](https://github.com/machuangtao/KGs-Survey/blob/main/zh-CN.md).
 
 [![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue)
@@ -19,6 +19,20 @@
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
     <td class="tg-yw4l">https://arxiv.org/abs/2202.05786</td>
+   </tr>
+    <tr>
+    <td class="tg-yw4l">Knowledge Graph Quality Management: a Comprehensive Survey</td>
+    <td class="tg-yw4l">IEEE Transactions on Knowledge and Data Engineering</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">KGs Construction and Completion</td>
+    <td class="tg-yw4l">https://doi.org/10.1109/TKDE.2022.3150080</td>
+   </tr>
+     <tr>
+    <td class="tg-yw4l">Temporal Knowledge Graph Completion: A Survey</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">KGs Construction and Completion</td>
+    <td class="tg-yw4l">https://doi.org/10.48550/arXiv.2201.08236 </td>
    </tr>
     <tr>
     <td class="tg-yw4l">Knowledge graph quality control: A survey</td>
@@ -78,6 +92,13 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.fmre.2021.08.013</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Toward better drug discovery with knowledge graph</td>
+    <td class="tg-yw4l">Current Opinion in Structural Biology</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Downstream Application</td>
+    <td class="tg-yw4l">https://doi.org/10.1016/j.sbi.2021.09.003</td>
   </tr>
     <tr>
     <td class="tg-yw4l">Exploiting knowledge graphs in industrial products and services : A survey of key aspects, challenges, and future perspectives</td>
