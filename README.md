@@ -1,5 +1,5 @@
 # KGs-Survey
-- This is a repository of KGs survey paper that will be updated periodically. Last update: 14 May,202
+- This is a repository of KGs survey paper that will be updated periodically. Last update: 15 May,202
 - The Chinese Lanague KGs survey paper are avaliable at [中文论文合集](https://github.com/machuangtao/KGs-Survey/blob/main/zh-CN.md).
 
 [![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue)
@@ -99,6 +99,13 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.sbi.2021.09.003</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Knowledge Augmented Machine Learning with Applications in Autonomous Driving: A Survey</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Downstream Application</td>
+    <td class="tg-yw4l">https://doi.org/10.48550/arXiv.2205.04712</td>
   </tr>
     <tr>
     <td class="tg-yw4l">Exploiting knowledge graphs in industrial products and services : A survey of key aspects, challenges, and future perspectives</td>
