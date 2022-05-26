@@ -56,6 +56,13 @@
     <td class="tg-yw4l">https://arxiv.org/abs/2006.00575</td>
   </tr>
     <tr>
+    <td class="tg-yw4l">Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2203.09280</td>
+  </tr>
+    <tr>
     <td class="tg-yw4l">Comprehensive Survey on Knowledge Graph Entity Alignment via Representation
 Learning</td>
     <td class="tg-yw4l">arXiv</td>
