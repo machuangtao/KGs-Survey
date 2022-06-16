@@ -1,5 +1,5 @@
 # KGs-Survey
-- This is a repository of KGs survey paper that will be updated periodically. Last update: 15 May,202
+- This is a repository of KGs survey paper that will be updated periodically. Last update: 16 June,2022
 - The Chinese Lanague KGs survey paper are avaliable at [中文论文合集](https://github.com/machuangtao/KGs-Survey/blob/main/zh-CN.md).
 
 [![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue)
@@ -99,6 +99,13 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.fmre.2021.08.013</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Semantic Knowledge Graphs for the News: A Review</td>
+    <td class="tg-yw4l">ACM Computing Surveys</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Downstream Application</td>
+    <td class="tg-yw4l">https://doi.org/10.1145/3543508</td>
   </tr>
    <tr>
     <td class="tg-yw4l">Toward better drug discovery with knowledge graph</td>
