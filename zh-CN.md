@@ -124,7 +124,6 @@
     <td class="tg-yw4l">下游应用</td>
     <td class="tg-yw4l">https://doi.org/10.11925/infotech.2096-3467.2020.1218</td>
   </tr>
-  
     <tr>
     <td class="tg-yw4l">知识图谱在智能制造领域的研究现状及其应用前景综述</td>
     <td class="tg-yw4l">机械工程学报</td>
