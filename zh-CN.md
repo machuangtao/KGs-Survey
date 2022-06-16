@@ -1,5 +1,5 @@
 # 知识图谱综述文章
-这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2022-4-20
+这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2022-6-16
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -76,6 +76,20 @@
     <td class="tg-yw4l">http://www.jos.org.cn/jos/article/abstract/6429</td>
   </tr>
     <tr>
+    <td class="tg-yw4l">知识图谱推理研究综述</td>
+    <td class="tg-yw4l">计算机科学</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">知识图谱推理与构建</td>
+    <td class="tg-yw4l">https://doi.org/10.11896/jsjkx.210100122</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">知识图谱可解释推理研究综述</td>
+    <td class="tg-yw4l">软件学报</td>
+    <td class="tg-yw4l">2021</td>
+    <td class="tg-yw4l">知识图谱推理与构建</td>
+    <td class="tg-yw4l">https://doi.org/10.13328/j.cnki.jos.006522</td>
+  </tr>
+    <tr>
     <td class="tg-yw4l">面向大数据领域的事理认知图谱构建与推断分析</td>
     <td class="tg-yw4l">中国科学：信息科学</td>
     <td class="tg-yw4l">2020</td>
@@ -97,12 +111,20 @@
     <td class="tg-yw4l">http://www.infocomm-journal.com/bdr/CN/10.11959/j.issn.2096-0271.2021025</td>
   </tr>
    <tr>
+    <td class="tg-yw4l">中文医学知识图谱研究及应用进展</td>
+    <td class="tg-yw4l">计算机科学与探索</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">下游应用</td>
+    <td class="tg-yw4l">https://doi.org/10.3778/j.issn.1673-9418.2112118</td>
+  </tr>
+   <tr>
     <td class="tg-yw4l">基于人才知识图谱推理的强化学习可解释推荐研究</td>
     <td class="tg-yw4l">数据分析与知识发现</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">下游应用</td>
     <td class="tg-yw4l">https://doi.org/10.11925/infotech.2096-3467.2020.1218</td>
   </tr>
+  
     <tr>
     <td class="tg-yw4l">知识图谱在智能制造领域的研究现状及其应用前景综述</td>
     <td class="tg-yw4l">机械工程学报</td>
@@ -130,6 +152,13 @@
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">知识图谱问答</td>
     <td class="tg-yw4l">http://www.infocomm-journal.com/bdr/CN/10.11959/j.issn.2096-0271.2021026</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">知识图谱推理问答研究综述</td>
+    <td class="tg-yw4l">计算机科学与探索</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">知识图谱问答</td>
+    <td class="tg-yw4l">http://doi.org/10.3778/j.issn.1673-9418.2111033</td>
   </tr>
      <tr>
     <td class="tg-yw4l">知识图谱问答领域综述</td>
