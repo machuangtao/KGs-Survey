@@ -203,7 +203,7 @@
     <td class="tg-yw4l">计算机工程与应用</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">下游应用</td>
-    <td class="tg-yw4l">：https://kns.cnki.net/kcms/detail/11.2127.tp.20220705.1125.002.html</td>
+    <td class="tg-yw4l">https://kns.cnki.net/kcms/detail/11.2127.tp.20220705.1125.002.html</td>
   </tr>
    <tr>
     <td class="tg-yw4l">25</td>
@@ -211,7 +211,7 @@
     <td class="tg-yw4l">计算机系统应用</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">下游应用</td>
-    <td class="tg-yw4l">：https://doi.org/10.15888/j.cnki.csa.008377</td>
+    <td class="tg-yw4l">https://doi.org/10.15888/j.cnki.csa.008377</td>
   </tr>
      <tr>
     <td class="tg-yw4l">26</td>
@@ -219,7 +219,7 @@
     <td class="tg-yw4l">软件导刊</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">知识图谱推理与构建</td>
-    <td class="tg-yw4l">：https://doi.org/10.15888/j.cnki.csa.008377</td>
+    <td class="tg-yw4l">https://doi.org/10.15888/j.cnki.csa.008377</td>
   </tr>
  </table> 
 
