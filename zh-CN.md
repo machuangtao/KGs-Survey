@@ -219,7 +219,7 @@
     <td class="tg-yw4l">软件导刊</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">知识图谱推理与构建</td>
-    <td class="tg-yw4l">https://doi.org/10.15888/j.cnki.csa.008377</td>
+    <td class="tg-yw4l">https://doi.org/10.11907/rjdk.211641</td>
   </tr>
  </table> 
 
