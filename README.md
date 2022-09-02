@@ -264,7 +264,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">https://doi.org/10.1007/978-981-19-2500-9_17</td>
   </tr>
    <tr>
-    <td class="tg-yw4l">31</td>
+    <td class="tg-yw4l">32</td>
     <td class="tg-yw4l">Knowledge Graphs in Education and Employability: A Survey on Applications and Techniques</td>
     <td class="tg-yw4l">IEEE Access</td>
     <td class="tg-yw4l">2022</td>
