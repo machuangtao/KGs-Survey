@@ -247,6 +247,30 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">XAI</td>
     <td class="tg-yw4l">https://arxiv.org/abs/2004.14843</td>
   </tr>
+    <tr>
+    <td class="tg-yw4l">30</td>
+    <td class="tg-yw4l">Healthcare Knowledge Graph Construction: State-of-the-art, open issues, and opportunities</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Downstream Application</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2207.03771</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">31</td>
+    <td class="tg-yw4l">Recommender System Using Knowledge Graph and Ontology: A Survey</td>
+    <td class="tg-yw4l">Expert Clouds and Applications</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Downstream Application</td>
+    <td class="tg-yw4l">https://doi.org/10.1007/978-981-19-2500-9_17</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">31</td>
+    <td class="tg-yw4l">Knowledge Graphs in Education and Employability: A Survey on Applications and Techniques</td>
+    <td class="tg-yw4l">IEEE Access</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Downstream Application</td>
+    <td class="tg-yw4l">https://doi.org/10.1109/ACCESS.2022.3194063</td>
+  </tr>
   
  </table> 
 
