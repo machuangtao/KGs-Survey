@@ -1,5 +1,5 @@
 # 知识图谱综述文章
-这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2022-7-15
+这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2022-9-3
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -74,7 +74,7 @@
     <td class="tg-yw4l">实体消歧</td>
     <td class="tg-yw4l">控制与决策</td>
     <td class="tg-yw4l">2021</td>
-    <td class="tg-yw4l">实体消岐与链接</td>
+    <td class="tg-yw4l">实体消岐与对齐</td>
     <td class="tg-yw4l">http://kzyjc.alljournals.cn/kzyjc/article/abstract/20210501</td>
   </tr>
     <tr>
@@ -220,6 +220,22 @@
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">知识图谱推理与构建</td>
     <td class="tg-yw4l">https://doi.org/10.11907/rjdk.211641</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">27</td>
+    <td class="tg-yw4l">实体对齐研究综述</td>
+    <td class="tg-yw4l">计算机学报</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">实体消岐与对齐</td>
+    <td class="tg-yw4l">http://cjc.ict.ac.cn/online/onlinepaper/zf-202261491026.pdf</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">28</td>
+    <td class="tg-yw4l">新一代知识图谱关键技术综述</td>
+    <td class="tg-yw4l">计算机研究与发展</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">综合应用</td>
+    <td class="tg-yw4l">https://doi.org/10.7544/issn1000-1239.20210829</td>
   </tr>
  </table> 
 
