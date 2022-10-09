@@ -1,7 +1,7 @@
 # 知识图谱综述文章
-这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2022-9-3
+这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2022-10-9
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue) ![Stars](https://img.shields.io/github/stars/machuangtao/KGs-Survey?color=blue)  ![Forks](https://img.shields.io/github/forks/machuangtao/KGs-Survey?color=blue&label=Fork)
 
 <table class="tg">
   <tr>
@@ -236,6 +236,22 @@
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">综合应用</td>
     <td class="tg-yw4l">https://doi.org/10.7544/issn1000-1239.20210829</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">29</td>
+    <td class="tg-yw4l">面向知识图谱的图嵌入学习研究进展</td>
+    <td class="tg-yw4l">软件学报</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">表示学习</td>
+    <td class="tg-yw4l">https://doi.org/10.13328/j.cnki.jos.006426</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">30</td>
+    <td class="tg-yw4l">图神经网络应用于知识图谱推理的研究综述</td>
+    <td class="tg-yw4l">计算机科学与探索</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">知识图谱推理与构建</td>
+    <td class="tg-yw4l">https://doi.org/10.3778/j.issn.1673-9418.2207060</td>
   </tr>
  </table> 
 
