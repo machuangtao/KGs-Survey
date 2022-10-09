@@ -1,8 +1,8 @@
 # KGs-Survey
-- This is a repository of KGs survey paper that will be updated periodically. Last update: 02 Sep, 2022
+- This is a repository of KGs survey paper that will be updated periodically. Last update: 09 Sep, 2022
 - The Chinese Lanague KGs survey paper repository is avaliable at [知识图谱中文综述论文合集](https://github.com/machuangtao/KGs-Survey/blob/main/zh-CN.md).
 
-[![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue)
+[![CC BY 4.0][cc-by-shield]][cc-by] [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue) ![Stars](https://img.shields.io/github/stars/machuangtao/KGs-Survey?color=blue)  ![Forks](https://img.shields.io/github/forks/machuangtao/KGs-Survey?color=blue&label=Fork)
 
 <table class="tg">
   <tr>
@@ -271,7 +271,30 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Downstream Application</td>
     <td class="tg-yw4l">https://doi.org/10.1109/ACCESS.2022.3194063</td>
   </tr>
-  
+   <tr>
+    <td class="tg-yw4l">33</td>
+    <td class="tg-yw4l">Knowledge-graph-based explainable AI: A systematic review</td>
+    <td class="tg-yw4l">Journal of Information Science</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">XAI</td>
+    <td class="tg-yw4l">https://doi.org/10.1177/01655515221112844</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">34</td>
+    <td class="tg-yw4l">What is a Multi-Modal Knowledge Graph: A Survey</td>
+    <td class="tg-yw4l">SSRN</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Multi-Modal KGs</td>
+    <td class="tg-yw4l">http://dx.doi.org/10.2139/ssrn.4229435</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">35</td>
+    <td class="tg-yw4l">A Survey on Knowledge Graph-based Methods for Automated Driving</td>
+    <td class="tg-yw4l">KGSWC2022</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Downstream Application</td>
+    <td class="tg-yw4l">https://www.researchgate.net/publication/364054681_A_Survey_on_Knowledge_Graph-based_Methods_for_Automated_Driving</td>
+  </tr>
  </table> 
 
 This work is licensed under a
