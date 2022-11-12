@@ -1,5 +1,5 @@
 # 知识图谱综述文章
-这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2022-10-9
+这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2022-11-12
 
 [![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue) ![Stars](https://img.shields.io/github/stars/machuangtao/KGs-Survey?color=blue)  ![Forks](https://img.shields.io/github/forks/machuangtao/KGs-Survey?color=blue&label=Fork)
 
@@ -252,6 +252,22 @@
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">知识图谱推理与构建</td>
     <td class="tg-yw4l">https://doi.org/10.3778/j.issn.1673-9418.2207060</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">31</td>
+    <td class="tg-yw4l">知识图谱增强的图神经网络推荐研究进展</td>
+    <td class="tg-yw4l">计算机工程与应用</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">下游应用</td>
+    <td class="tg-yw4l">https://doi.org/10.3778/j.issn.1002-8331.2205-0268</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">32</td>
+    <td class="tg-yw4l">利用知识图谱的推荐系统研究综述</td>
+    <td class="tg-yw4l">计算机工程与应用</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">下游应用</td>
+    <td class="tg-yw4l">https://doi.org/10.3778/j.issn.1002-8331.2209-0033</td>
   </tr>
  </table> 
 
