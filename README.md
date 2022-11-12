@@ -189,7 +189,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Semantic Web</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Representation Learning</td>
-    <td class="tg-yw4l">https://content.iospress.com/articles/semantic-web/sw212959</td>
+    <td class="tg-yw4l">https://doi.org/10.3233/SW-212959</td>
   </tr>
     <tr>
     <td class="tg-yw4l">23</td>
@@ -293,7 +293,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">KGSWC2022</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://www.researchgate.net/publication/364054681_A_Survey_on_Knowledge_Graph-based_Methods_for_Automated_Driving</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2210.08119<</td>
   </tr>
    <tr>
     <td class="tg-yw4l">36</td>
@@ -329,11 +329,11 @@ reasoning, and inconsistency checking</td>
   </tr>
   <tr>
     <td class="tg-yw4l">40</td>
-    <td class="tg-yw4l">A Survey on Knowledge Graph-based Methods for Automated Driving</td>
+    <td class="tg-yw4l">Generative Knowledge Graph Construction: A Review</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
-    <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2210.08119</td>
+    <td class="tg-yw4l">KGs Construction and Completion</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2210.12714</td>
   </tr>
   
  </table> 
