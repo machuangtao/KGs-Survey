@@ -293,7 +293,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">KGSWC2022</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2210.08119<</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2210.08119</td>
   </tr>
    <tr>
     <td class="tg-yw4l">36</td>
