@@ -1,5 +1,5 @@
 # KGs-Survey
-- This is a repository of KGs survey paper that will be updated periodically. Last update: 09 Oct, 2022
+- This is a repository of KGs survey paper that will be updated periodically. Last update: 12 Nov, 2022
 - The Chinese Lanague KGs survey paper repository is avaliable at [知识图谱中文综述论文合集](https://github.com/machuangtao/KGs-Survey/blob/main/zh-CN.md).
 
 [![CC BY 4.0][cc-by-shield]][cc-by] [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue) ![Stars](https://img.shields.io/github/stars/machuangtao/KGs-Survey?color=blue)  ![Forks](https://img.shields.io/github/forks/machuangtao/KGs-Survey?color=blue&label=Fork)
@@ -303,6 +303,39 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">KGs Representation Learning</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.inffus.2022.09.003</td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">37</td>
+    <td class="tg-yw4l">A Decade of Knowledge Graphs in Natural Language Processing: A Survey</td>
+    <td class="tg-yw4l">AACL-IJCNLP</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">KGs&NLP</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2210.00105</td>
+  </tr>  
+  <tr>
+    <td class="tg-yw4l">38</td>
+    <td class="tg-yw4l">Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">KGs Representation Learning</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2211.03536</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">39</td>
+    <td class="tg-yw4l">Knowledge-Graph-Enabled Biomedical Entity Linking: A Survey</td>
+    <td class="tg-yw4l">Research Square</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
+    <td class="tg-yw4l">https://doi.org/10.21203/rs.3.rs-2183349</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">40</td>
+    <td class="tg-yw4l">A Survey on Knowledge Graph-based Methods for Automated Driving</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Downstream Application</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2210.08119</td>
+  </tr>
+  
  </table> 
 
 This work is licensed under a
