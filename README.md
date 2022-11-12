@@ -325,7 +325,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Research Square</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
-    <td class="tg-yw4l">https://doi.org/10.21203/rs.3.rs-2183349</td>
+    <td class="tg-yw4l">https://doi.org/10.21203/rs.3.rs-2183349/v1</td>
   </tr>
   <tr>
     <td class="tg-yw4l">40</td>
