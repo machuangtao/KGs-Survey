@@ -341,14 +341,14 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Representation Learning</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2211.05994</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2211.03536</td>
   </tr>
     <tr>
     <td class="tg-yw4l">42</td>
     <td class="tg-yw4l">A Survey of Knowledge-Enhanced Pre-trained Language Models</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
-    <td class="tg-yw4l">KGs&NLP<</td>
+    <td class="tg-yw4l">KGs&NLP</td>
     <td class="tg-yw4l">https://arxiv.org/abs/2211.05994</td>
   </tr>
    <tr>
@@ -356,15 +356,15 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">From tabular data to knowledge graphs: A survey of semantic table interpretation tasks and methods</td>
     <td class="tg-yw4l">Journal of Web Semantics</td>
     <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">Downstream Application<</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2211.05994</td>
+    <td class="tg-yw4l">Downstream Application</td>
+    <td class="tg-yw4l">https://doi.org/10.1016/j.websem.2022.100761</td>
   </tr>
     <tr>
     <td class="tg-yw4l">44</td>
     <td class="tg-yw4l">A survey of hybrid knowledge reasoning oriented to KG</td>
     <td class="tg-yw4l">CAICE2022</td>
-    <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">Downstream Application<</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Downstream Application</td>
     <td class="tg-yw4l">https://doi.org/10.1117/12.2641006</td>
   </tr>
     <tr>
@@ -372,7 +372,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Fusing external knowledge resources for natural language understanding techniques: A survey</td>
     <td class="tg-yw4l">Information Fusion</td>
     <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">KGs&NLP<</td>
+    <td class="tg-yw4l">KGs&NLP</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.inffus.2022.11.025</td>
   </tr>
  </table> 
