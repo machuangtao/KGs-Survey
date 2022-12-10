@@ -298,7 +298,7 @@
     <td class="tg-yw4l">知识图谱平台综述</td>
     <td class="tg-yw4l">计算机应用研究</td>
     <td class="tg-yw4l">2022</td>
-    <td class="tg-yw4l">综合应用<</td>
+    <td class="tg-yw4l">综合应用</td>
     <td class="tg-yw4l">https://doi.org/10.19734/j.issn.1001-3695.2022.04.0145</td>
   </tr>
  </table> 
