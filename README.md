@@ -1,5 +1,5 @@
 # KGs-Survey
-- This is a repository of KGs survey paper that will be updated periodically. Last update: 10 Dec, 2022
+- This is a repository of KGs survey paper that will be updated periodically. Last update: 26 Feb, 2023
 - The Chinese Lanague KGs survey paper repository is avaliable at [知识图谱中文综述论文合集](https://github.com/machuangtao/KGs-Survey/blob/main/zh-CN.md).
 
 [![CC BY 4.0][cc-by-shield]][cc-by] [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue) ![Stars](https://img.shields.io/github/stars/machuangtao/KGs-Survey?color=blue)  ![Forks](https://img.shields.io/github/forks/machuangtao/KGs-Survey?color=blue&label=Fork)
@@ -374,6 +374,61 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">KGs&NLP</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.inffus.2022.11.025</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">46</td>
+    <td class="tg-yw4l">Construction of Knowledge Graphs: State and Challenges</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">KGs Construction and Completion</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2302.11509</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">47</td>
+    <td class="tg-yw4l">A Comprehensive Survey on Automatic Knowledge Graph Construction</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">KGs Construction and Completion</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2302.05019</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">48</td>
+    <td class="tg-yw4l">Generalizing to Unseen Elements: A Survey on Knowledge Extrapolation for Knowledge Graphs</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">Knowledge Extrapolation and Interpolation</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2302.01859</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">49</td>
+    <td class="tg-yw4l">A Survey on Temporal Knowledge Graphs-Extrapolation and Interpolation Tasks</td>
+    <td class="tg-yw4l">ICNC-FSKD 2022</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">Knowledge Extrapolation and Interpolation</td>
+    <td class="tg-yw4l">https://doi.org/10.1007/978-3-031-20738-9_110<td>
+  </tr>
+    <td class="tg-yw4l">50</td>
+    <td class="tg-yw4l">A Survey On Few-shot Knowledge Graph Completion with Structural and Commonsense Knowledge</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">KGs Construction and Completion</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2301.01172<td>
+  </tr>
+    </tr>
+    <td class="tg-yw4l">51</td>
+    <td class="tg-yw4l">Knowledge Distillation on Graphs: A Survey</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">Knowledge Distillation</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2302.00219<td>
+  </tr>
+  </tr>
+    <td class="tg-yw4l">52</td>
+    <td class="tg-yw4l">Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability</td>
+    <td class="tg-yw4l">arXiv</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">Knowledge Augmentement and Enhancement</td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2302.08261<td>
   </tr>
  </table> 
 
