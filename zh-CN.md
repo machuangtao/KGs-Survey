@@ -1,5 +1,5 @@
 # 知识图谱综述文章
-这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2022-12-10
+这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2023-02-26
 
 [![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue) ![Stars](https://img.shields.io/github/stars/machuangtao/KGs-Survey?color=blue)  ![Forks](https://img.shields.io/github/forks/machuangtao/KGs-Survey?color=blue&label=Fork)
 
@@ -300,6 +300,54 @@
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">综合应用</td>
     <td class="tg-yw4l">https://doi.org/10.19734/j.issn.1001-3695.2022.04.0145</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">37</td>
+    <td class="tg-yw4l">知识图谱推荐系统研究综述</td>
+    <td class="tg-yw4l">计算机科学与探索</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">下游应用</td>
+    <td class="tg-yw4l">https://doi.org/10.3778/j.issn.1673-9418.2205052</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">38</td>
+    <td class="tg-yw4l">面向关系型数据与知识图谱的数据集成技术综述</td>
+    <td class="tg-yw4l">软件学报</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">下游应用</td>
+    <td class="tg-yw4l">https://doi.org/10.13328/j.cnki.jos.006808</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">39</td>
+    <td class="tg-yw4l">知识图谱可视分析研究综述</td>
+    <td class="tg-yw4l">计算机辅助设计与图形学学报</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">下游应用</td>
+    <td class="tg-yw4l">http://kns.cnki.net/kcms/detail/11.2925.TP.20230220.1512.006.html</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">40</td>
+    <td class="tg-yw4l">个性化学习中学科知识图谱构建与应用综述</td>
+    <td class="tg-yw4l">计算机工程与应用</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">知识图谱推理与构建/td>
+    <td class="tg-yw4l">http://kns.cnki.net/kcms/detail/11.2127.tp.20230214.0931.002.html</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">41</td>
+    <td class="tg-yw4l">面向知识图谱的规则挖掘研究综述</td>
+    <td class="tg-yw4l">计算机工程与应用</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">知识图谱推理与构建/td>
+    <td class="tg-yw4l">http://kns.cnki.net/kcms/detail/11.2127.TP.20230214.1425.024.html</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">42</td>
+    <td class="tg-yw4l">GIS领域知识图谱进展研究</td>
+    <td class="tg-yw4l">测绘地理信息</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">综合应用/td>
+    <td class="tg-yw4l">https://doi.org/10.13328/10.14188/j.2095-6045.2022289</td>
   </tr>
  </table> 
 
