@@ -330,7 +330,7 @@
     <td class="tg-yw4l">个性化学习中学科知识图谱构建与应用综述</td>
     <td class="tg-yw4l">计算机工程与应用</td>
     <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">知识图谱推理与构建/td>
+    <td class="tg-yw4l">知识图谱推理与构建</td>
     <td class="tg-yw4l">http://kns.cnki.net/kcms/detail/11.2127.tp.20230214.0931.002.html</td>
   </tr>
   <tr>
@@ -338,7 +338,7 @@
     <td class="tg-yw4l">面向知识图谱的规则挖掘研究综述</td>
     <td class="tg-yw4l">计算机工程与应用</td>
     <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">知识图谱推理与构建/td>
+    <td class="tg-yw4l">知识图谱推理与构建</td>
     <td class="tg-yw4l">http://kns.cnki.net/kcms/detail/11.2127.TP.20230214.1425.024.html</td>
   </tr>
   <tr>
@@ -346,7 +346,7 @@
     <td class="tg-yw4l">GIS领域知识图谱进展研究</td>
     <td class="tg-yw4l">测绘地理信息</td>
     <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">综合应用/td>
+    <td class="tg-yw4l">综合应用</td>
     <td class="tg-yw4l">https://doi.org/10.13328/10.14188/j.2095-6045.2022289</td>
   </tr>
  </table> 
