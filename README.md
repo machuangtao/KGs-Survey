@@ -405,30 +405,31 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">ICNC-FSKD 2022</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Knowledge Extrapolation and Interpolation</td>
-    <td class="tg-yw4l">https://doi.org/10.1007/978-3-031-20738-9_110<td>
+    <td class="tg-yw4l">https://doi.org/10.1007/978-3-031-20738-9_110</td>
   </tr>
+  <tr>
     <td class="tg-yw4l">50</td>
     <td class="tg-yw4l">A Survey On Few-shot Knowledge Graph Completion with Structural and Commonsense Knowledge</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2301.01172<td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2301.01172</td>
   </tr>
-    </tr>
+  <tr>
     <td class="tg-yw4l">51</td>
     <td class="tg-yw4l">Knowledge Distillation on Graphs: A Survey</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Knowledge Distillation</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2302.00219<td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2302.00219</td>
   </tr>
-  </tr>
+  <tr>
     <td class="tg-yw4l">52</td>
     <td class="tg-yw4l">Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Knowledge Augmentement and Enhancement</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2302.08261<td>
+    <td class="tg-yw4l">https://arxiv.org/abs/2302.08261</td>
   </tr>
  </table> 
 
