@@ -1,5 +1,5 @@
 # 知识图谱综述文章
-这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2023-02-26
+这是一个知识图谱综述文章合集，该合集将会定期更新。上一次更新时间: 2023-05-28
 
 [![CC BY 4.0][cc-by-shield]][cc-by] ![](https://img.shields.io/github/last-commit/machuangtao/KGs-Survey?color=blue) ![Stars](https://img.shields.io/github/stars/machuangtao/KGs-Survey?color=blue)  ![Forks](https://img.shields.io/github/forks/machuangtao/KGs-Survey?color=blue&label=Fork)
 
@@ -348,6 +348,54 @@
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">综合应用</td>
     <td class="tg-yw4l">https://doi.org/10.13328/10.14188/j.2095-6045.2022289</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">43</td>
+    <td class="tg-yw4l">少样本知识图谱补全技术研究</td>
+    <td class="tg-yw4l">计算机科学与探索</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">知识图谱构建与补全</td>
+    <td class="tg-yw4l">https://doi.org/10.3778/j.issn.1673-9418.2209069</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">44</td>
+    <td class="tg-yw4l">面向知识图谱补全的归纳学习研究综述</td>
+    <td class="tg-yw4l">计算机科学与探索</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">知识图谱构建与补全</td>
+    <td class="tg-yw4l">https://doi.org/10.3778/j.issn.1673-9418.2303063</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">45</td>
+    <td class="tg-yw4l">基于表示学习的实体对齐方法综述</td>
+    <td class="tg-yw4l">计算机工程与科学</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">实体消岐与对齐</td>
+    <td class="tg-yw4l"> http://manu46.magtech.com.cn/ces/CN/Y2023/V45/I03/554</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">46</td>
+    <td class="tg-yw4l">基于深度学习的实体关系联合抽取研究综述</td>
+    <td class="tg-yw4l">电子学报</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">实体关系抽取</td>
+    <td class="tg-yw4l">https://doi.org/10.12263/DZXB.20221176</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">47</td>
+    <td class="tg-yw4l">面向关系型数据与知识图谱的数据集成技术综述</td>
+    <td class="tg-yw4l">软件学报</td>
+    <td class="tg-yw4l">2022</td>
+    <td class="tg-yw4l">下游应用</td>
+    <td class="tg-yw4l">https://doi.org/10.13328/j.cnki.jos.006808</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">48</td>
+    <td class="tg-yw4l">知识图谱补全技术研究综述</td>
+    <td class="tg-yw4l">小型微型计算机系统</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">知识图谱构建与补全</td>
+    <td class="tg-yw4l">https://doi.org/10.20009/j.cnki.21-1106/TP.2022-0423</td>
   </tr>
  </table> 
 
