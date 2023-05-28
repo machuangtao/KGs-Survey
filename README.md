@@ -440,15 +440,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">https://arxiv.org/abs/2210.12714</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">53</td>
-    <td class="tg-yw4l">From Data to Wisdom: Biomedical Knowledge Graphs for Real-World Data Insights</td>
-    <td class="tg-yw4l">Journal of Medical Systems</td>
-    <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1007/s10916-023-01951-2</td>
-  </tr>
-    <tr>
-    <td class="tg-yw4l">53</td>
+    <td class="tg-yw4l">54</td>
     <td class="tg-yw4l">From Data to Wisdom: Biomedical Knowledge Graphs for Real-World Data Insights</td>
     <td class="tg-yw4l">Journal of Medical Systems</td>
     <td class="tg-yw4l">2023</td>
@@ -456,7 +448,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">https://doi.org/10.1007/s10916-023-01951-2</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">54</td>
+    <td class="tg-yw4l">55</td>
     <td class="tg-yw4l">Towards electronic health record-based medical knowledge graph construction, completion, and applications: A literature study</td>
     <td class="tg-yw4l">Journal of Biomedical Informatics</td>
     <td class="tg-yw4l">2023</td>
@@ -464,7 +456,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">https://doi.org/10.1016/j.jbi.2023.104403</td>
   </tr>
     <tr>
-    <td class="tg-yw4l">55</td>
+    <td class="tg-yw4l">56</td>
     <td class="tg-yw4l">A Survey on Multimodal Knowledge Graphs: Construction, Completion and Applications</td>
     <td class="tg-yw4l">Mathematics</td>
     <td class="tg-yw4l">2023</td>
@@ -472,7 +464,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">https://doi.org/10.3390/math11081815</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">56</td>
+    <td class="tg-yw4l">57</td>
     <td class="tg-yw4l">A Review of Knowledge Graph-Based Reasoning Technology in the Operation of Power Systems</td>
     <td class="tg-yw4l">Applied Sciences</td>
     <td class="tg-yw4l">2023</td>
@@ -480,7 +472,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">https://doi.org/10.3390/app13074357</td>
   </tr>
     <tr>
-    <td class="tg-yw4l">57</td>
+    <td class="tg-yw4l">58</td>
     <td class="tg-yw4l">Knowledge Graphs: Opportunities and Challenges</td>
     <td class="tg-yw4l">Artificial Intelligence Review</td>
     <td class="tg-yw4l">2023</td>
@@ -488,7 +480,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">https://doi.org/10.1007/s10462-023-10465-9</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">58</td>
+    <td class="tg-yw4l">59</td>
     <td class="tg-yw4l">Multilingual Question Answering Systems for Knowledge Graphs—A Survey</td>
     <td class="tg-yw4l">Semantic Web</td>
     <td class="tg-yw4l">2023</td>
@@ -496,20 +488,28 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">https://www.semantic-web-journal.net/system/files/swj3417.pdf</td>
   </tr>
    <tr>
-    <td class="tg-yw4l">59</td>
+    <td class="tg-yw4l">60</td>
     <td class="tg-yw4l">Knowledge Graph: A Survey</td>
-    <td class="tg-yw4l">Semantic Web</td>
+    <td class="tg-yw4l">TechrXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">KGs</td>
     <td class="tg-yw4l">https://www.techrxiv.org/articles/preprint/Knowledge_Graph_A_Survey/22813967</td>
   </tr>
-     <tr>
-    <td class="tg-yw4l">60</td>
+  <tr>
+    <td class="tg-yw4l">61</td>
     <td class="tg-yw4l">A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
     <td class="tg-yw4l">https://arxiv.org/abs/2212.05767</td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">62</td>
+    <td class="tg-yw4l">Research and application of intelligent search for knowledge graph of power grid dispatch and control</td>
+    <td class="tg-yw4l">CAICE2023</td>
+    <td class="tg-yw4l">2023</td>
+    <td class="tg-yw4l">Downstream Application</td>
+    <td class="tg-yw4l">https://doi.org/10.1117/12.2681383</td>
   </tr>
  </table> 
 
