@@ -484,7 +484,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Knowledge Graphs: Opportunities and Challenges</td>
     <td class="tg-yw4l">Artificial Intelligence Review</td>
     <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">KGs/td>
+    <td class="tg-yw4l">KGs</td>
     <td class="tg-yw4l">https://doi.org/10.1007/s10462-023-10465-9</td>
   </tr>
   <tr>
@@ -492,7 +492,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Multilingual Question Answering Systems for Knowledge Graphs—A Survey</td>
     <td class="tg-yw4l">Semantic Web</td>
     <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">QA/td>
+    <td class="tg-yw4l">QA</td>
     <td class="tg-yw4l">https://www.semantic-web-journal.net/system/files/swj3417.pdf</td>
   </tr>
    <tr>
@@ -500,7 +500,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Knowledge Graph: A Survey</td>
     <td class="tg-yw4l">Semantic Web</td>
     <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">KGs/td>
+    <td class="tg-yw4l">KGs</td>
     <td class="tg-yw4l">https://www.techrxiv.org/articles/preprint/Knowledge_Graph_A_Survey/22813967</td>
   </tr>
      <tr>
@@ -508,7 +508,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
-    <td class="tg-yw4l">Knowledge Reasoning/td>
+    <td class="tg-yw4l">Knowledge Reasoning</td>
     <td class="tg-yw4l">https://arxiv.org/abs/2212.05767</td>
   </tr>
  </table> 
