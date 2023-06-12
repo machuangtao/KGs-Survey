@@ -195,7 +195,7 @@
     <td class="tg-yw4l">计算机研究与发展</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">下游应用</td>
-    <td class="tg-yw4l"><a href="https://doi.org/10.7544/issn1000-1239.20211264"></DOI></td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.7544/issn1000-1239.20211264">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">24</td>
