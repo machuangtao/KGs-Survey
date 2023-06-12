@@ -19,7 +19,7 @@
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2202.05786</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2202.05786">arXiv</a></td>
    </tr>
     <tr>
     <td class="tg-yw4l">2</td>
@@ -27,7 +27,7 @@
     <td class="tg-yw4l">IEEE Transactions on Knowledge and Data Engineering</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
-    <td class="tg-yw4l">https://doi.org/10.1109/TKDE.2022.3150080</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1109/TKDE.2022.3150080">DOI</a></td>
    </tr>
     <tr>
     <td class="tg-yw4l">3</td>
@@ -35,7 +35,7 @@
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
-    <td class="tg-yw4l">https://doi.org/10.48550/arXiv.2201.08236 </td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.48550/arXiv.2201.08236">arXiv</a></td>
    </tr>
     <tr>
     <td class="tg-yw4l">4</td>
@@ -43,7 +43,7 @@
     <td class="tg-yw4l">Fundamental Research</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.fmre.2021.09.003</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.fmre.2021.09.003">DOI</a></td>
    </tr>
    <tr>
     <td class="tg-yw4l">5</td>
@@ -51,7 +51,7 @@
     <td class="tg-yw4l">Open AI</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">KGs Representation Learning</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.aiopen.2021.02.001</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.aiopen.2021.02.001">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">6</td>
@@ -59,7 +59,7 @@
     <td class="tg-yw4l">Semantic Web</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Knowledge Graph Entity Linking</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2006.00575</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2006.00575">arXiv</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">7</td>
@@ -67,7 +67,7 @@
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2203.09280</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2203.09280">arXiv</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">8</td>
@@ -75,7 +75,7 @@
     <td class="tg-yw4l">The VLDB Journal</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
-    <td class="tg-yw4l">https://doi.org/10.1007/s00778-022-00747-z</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1007/s00778-022-00747-z">DOI</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">9</td>
@@ -83,7 +83,7 @@
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2010.16314</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2010.16314">arXiv</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">10</td>
@@ -91,7 +91,7 @@
     <td class="tg-yw4l">Lecture Notes in Computer Science</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
-    <td class="tg-yw4l">https://doi.org/10.1007/978-3-031-09282-4_34</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1007/978-3-031-09282-4_34">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">11</td>
@@ -100,7 +100,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Fundamental Research</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.fmre.2021.08.013</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.fmre.2021.08.013">DOI</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">12</td>
@@ -108,7 +108,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Journal of Electronic Science and Technology</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.jnlest.2022.100159</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.jnlest.2022.100159">DOI</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">13</td>
@@ -116,7 +116,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2202.07412</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2202.07412">arXiv</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">14</td>
@@ -125,7 +125,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Fundamental Research</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.fmre.2021.08.013</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.fmre.2021.08.013">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">15</td>
@@ -133,7 +133,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">ACM Computing Surveys</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1145/3543508</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1145/3543508">DOI</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">16</td>
@@ -141,7 +141,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Current Opinion in Structural Biology</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.sbi.2021.09.003</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.sbi.2021.09.003">DOI</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">17</td>
@@ -149,7 +149,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.48550/arXiv.2205.04712</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.48550/arXiv.2205.04712">arXiv</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">18</td>
@@ -157,7 +157,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Computers in Industry</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.compind.2021.103449</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.compind.2021.103449">DOI</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">19</td>
@@ -165,7 +165,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">IEEE Access</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1109/ACCESS.2021.3070395</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1109/ACCESS.2021.3070395">DOI</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">20</td>
@@ -173,7 +173,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">Event KGs</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2112.15280</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2112.15280">arXiv</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">21</td>
@@ -181,7 +181,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2020</td>
     <td class="tg-yw4l">KGs Representation Learning</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2002.00388</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2002.00388">arxiv</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">22</td>
@@ -189,7 +189,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Semantic Web</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Representation Learning</td>
-    <td class="tg-yw4l">https://doi.org/10.3233/SW-212959</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.3233/SW-212959">DOI</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">23</td>
@@ -197,7 +197,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Synthesis Lectures on Data, Semantics, and Knowledge</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">KGs</td>
-    <td class="tg-yw4l">https://kgbook.org</td>
+    <td class="tg-yw4l"><a href="https://kgbook.org">Website</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">24</td>
@@ -205,7 +205,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Communications of the ACM</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">KGs</td>
-    <td class="tg-yw4l">https://dl.acm.org/doi/10.1145/3418294</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1145/3418294">DOI</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">25</td>
@@ -213,7 +213,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Data</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">QA</td>
-    <td class="tg-yw4l">https://doi.org/10.3390/data7070094</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.3390/data7070094">DOI</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">26</td>
@@ -221,7 +221,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Expert Systems with Applications</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">QA</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.eswa.2022.117737</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.eswa.2022.117737">DOI</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">27</td>
@@ -229,7 +229,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2021</td>
     <td class="tg-yw4l">QA</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2112.03572</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2112.03572">arXiv</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">28</td>
@@ -237,7 +237,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Artificial Intelligence</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">XAI</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.artint.2021.103627</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.artint.2021.103627">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">29</td>
@@ -245,7 +245,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2020</td>
     <td class="tg-yw4l">XAI</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2004.14843</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2004.14843">arXiv</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">30</td>
@@ -253,7 +253,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2207.03771</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2207.03771">arXiv</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">31</td>
@@ -261,7 +261,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Expert Clouds and Applications</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1007/978-981-19-2500-9_17</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1007/978-981-19-2500-9_17">DOI</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">32</td>
@@ -269,7 +269,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">IEEE Access</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1109/ACCESS.2022.3194063</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1109/ACCESS.2022.3194063">DOI</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">33</td>
@@ -277,7 +277,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Journal of Information Science</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">XAI</td>
-    <td class="tg-yw4l">https://doi.org/10.1177/01655515221112844</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1177/01655515221112844">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">34</td>
@@ -285,7 +285,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">SSRN</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Multi-Modal KGs</td>
-    <td class="tg-yw4l">http://dx.doi.org/10.2139/ssrn.4229435</td>
+    <td class="tg-yw4l"><a href="http://dx.doi.org/10.2139/ssrn.4229435">DOI</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">35</td>
@@ -293,7 +293,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">KGSWC2022</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2210.08119</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2210.08119">arXiv</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">36</td>
@@ -301,7 +301,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Information Fusion</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Representation Learning</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.inffus.2022.09.003</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.inffus.2022.09.003">arXiv</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">37</td>
@@ -309,7 +309,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">AACL-IJCNLP</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs&NLP</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2210.00105</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2210.00105">arXiv</a></td>
   </tr>  
   <tr>
     <td class="tg-yw4l">38</td>
@@ -317,7 +317,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Representation Learning</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2211.03536</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2211.03536">arXiv</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">39</td>
@@ -325,7 +325,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Research Square</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Knowledge Graph Entity Alignment</td>
-    <td class="tg-yw4l">https://doi.org/10.21203/rs.3.rs-2183349/v1</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.21203/rs.3.rs-2183349/v1">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">40</td>
@@ -333,7 +333,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2210.12714</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2210.12714">arXiv</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">41</td>
@@ -341,7 +341,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs Representation Learning</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2211.03536</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2211.03536">arXiv</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">42</td>
@@ -349,7 +349,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">KGs&NLP</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2211.05994</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2211.05994">arXiv</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">43</td>
@@ -357,7 +357,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Journal of Web Semantics</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.websem.2022.100761</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.websem.2022.100761">DOI</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">44</td>
@@ -365,7 +365,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">CAICE2022</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1117/12.2641006</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1117/12.2641006">DOI</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">45</td>
@@ -373,7 +373,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Information Fusion</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">KGs&NLP</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.inffus.2022.11.025</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.inffus.2022.11.025">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">46</td>
@@ -381,7 +381,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2302.11509</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2302.11509">arXiv</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">47</td>
@@ -389,7 +389,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2302.05019</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2302.05019">arXiv</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">48</td>
@@ -397,7 +397,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Knowledge Extrapolation and Interpolation</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2302.01859</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2302.01859">arXiv</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">49</td>
@@ -405,7 +405,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">ICNC-FSKD 2022</td>
     <td class="tg-yw4l">2022</td>
     <td class="tg-yw4l">Knowledge Extrapolation and Interpolation</td>
-    <td class="tg-yw4l">https://doi.org/10.1007/978-3-031-20738-9_110</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1007/978-3-031-20738-9_110">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">50</td>
@@ -413,7 +413,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2301.01172</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2301.01172">arXiv</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">51</td>
@@ -421,7 +421,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Knowledge Distillation</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2302.00219</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2302.00219">arXiv</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">52</td>
@@ -429,7 +429,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Knowledge Augmentement and Enhancement</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2302.08261</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2302.08261">arXiv</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">53</td>
@@ -437,7 +437,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">KGs Construction and Completion</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2210.12714</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2210.12714">arXiv</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">54</td>
@@ -445,7 +445,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Journal of Medical Systems</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1007/s10916-023-01951-2</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1007/s10916-023-01951-2">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">55</td>
@@ -453,7 +453,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Journal of Biomedical Informatics</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1016/j.jbi.2023.104403</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1016/j.jbi.2023.104403">DOI</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">56</td>
@@ -461,7 +461,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Mathematics</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Multimodal KGs</td>
-    <td class="tg-yw4l">https://doi.org/10.3390/math11081815</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.3390/math11081815">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">57</td>
@@ -469,7 +469,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Applied Sciences</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
-    <td class="tg-yw4l">https://doi.org/10.3390/app13074357</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.3390/app13074357">DOI</a></td>
   </tr>
     <tr>
     <td class="tg-yw4l">58</td>
@@ -477,7 +477,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Artificial Intelligence Review</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">KGs</td>
-    <td class="tg-yw4l">https://doi.org/10.1007/s10462-023-10465-9</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1007/s10462-023-10465-9">DOI</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">59</td>
@@ -485,7 +485,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">Semantic Web</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">QA</td>
-    <td class="tg-yw4l">https://www.semantic-web-journal.net/system/files/swj3417.pdf</td>
+    <td class="tg-yw4l"><a href="https://www.semantic-web-journal.net/system/files/swj3417.pdf">PDF</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">60</td>
@@ -493,7 +493,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">TechrXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">KGs</td>
-    <td class="tg-yw4l">https://www.techrxiv.org/articles/preprint/Knowledge_Graph_A_Survey/22813967</td>
+    <td class="tg-yw4l"><a href="https://www.techrxiv.org/articles/preprint/Knowledge_Graph_A_Survey/22813967">TechrXiv</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">61</td>
@@ -501,7 +501,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">arXiv</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Knowledge Reasoning</td>
-    <td class="tg-yw4l">https://arxiv.org/abs/2212.05767</td>
+    <td class="tg-yw4l"><a href="https://arxiv.org/abs/2212.05767">arXiv</a></td>
   </tr>
    <tr>
     <td class="tg-yw4l">62</td>
@@ -509,7 +509,7 @@ reasoning, and inconsistency checking</td>
     <td class="tg-yw4l">CAICE2023</td>
     <td class="tg-yw4l">2023</td>
     <td class="tg-yw4l">Downstream Application</td>
-    <td class="tg-yw4l">https://doi.org/10.1117/12.2681383</td>
+    <td class="tg-yw4l"><a href="https://doi.org/10.1117/12.2681383">DOI</a></td>
   </tr>
  </table> 
 
